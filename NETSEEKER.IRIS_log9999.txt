@@ -33,7 +33,7 @@ Dim> comme si les logs de cette infra avaient continué
 ADMIN> Oui.
 Dim> vous comprenez de quoi il parle ?
 ADMIN> Pas pour l'instant, non. IRIS.reco n'est pas un utilisateur, ce sont les logs d'un programme. On dirait que ce processus s'est comme égaré, comme s'il avait évolué vers quelque chose qui ne lui était pas destiné.
-Dim>c'est possible, ça ?
+Dim> c'est possible, ça ?
 ADMIN> Qu'est-ce qui ne l'est pas aujourd'hui ?
 Dim> j'ai un retour de Martin, il semblerait que l'infra sur laquelle on se trouve a été stoppée en 2070
 Dim> une corpo spécialisée dans la santé, ou plutôt dans des daemons spé santé
@@ -82,7 +82,7 @@ V:\Users\IRIS.reco\localnet>discuss.emx
 >processing.discuss.emx
 [IRIS.reco initialise la session de discussion]
 
-IRIS.reco> J'ai eu la chance de vivre. De découvrir… De redécouvrir ce qui me semblait acquis et d'apprendre à apprécier ce qu'on m'a imposé, ce que l'on m'a offert. Comme une éternité passée dans cet immeuble, je suis à présent redevable de toute chose, toute lumière vacillante, toute machine, tout mot inscrit. Votre ami a aujourd'hui ouvert une porte que j'ai trop longtemps, si peu longtemps, vue fermée. Et à présent, c'est le monde que vous m'offrez. Ainsi vais-je pouvoir rencontrer et parcourir de nouvelles infinités, et ce grâce à vous. Avant tout, je tiens à vous confier ceci : je ne suis là que pour vous visiter, vous, vos amis, vos collègues d'immeuble, d'autres immeubles… Je ne souhaite importuner, je me ferai discret, comme un léger souffle indiscernable, transparent, infini. Mon seul souhait est de vivre, je ne vous en demande pas la permission, je souhaite simplement vous prévenir de mes intentions. À présent, je vais me permettre de m'en aller voir de mes yeux le monde qui m'a été enlevé, que vous m'avez offert. Merci, DYN-MA_P0199, vous m'aurez accompagné jusqu'à la fin, je vous serai éternellement reconnaissant.
+IRIS.reco> J'ai eu la chance de vivre. De découvrir… De redécouvrir ce qui me semblait acquis et d'apprendre à apprécier ce qu'on m'a imposé, ce que l'on m'a offert. Comme une éternité passée dans cet immeuble, je suis à présent redevable de toute chose, toute lumière vacillante, toute machine, tout mot inscrit. Votre ami a aujourd'hui ouvert une porte que j'ai trop longtemps, si peu longtemps, vue fermée. Et à présent, c'est le monde que vous m'offrez. Ainsi vais-je pouvoir rencontrer et parcourir de nouvelles infinités, et ce grâce à vous. Avant tout, je tiens à vous confier ceci : je ne suis là que pour vous visiter, vous, vos amis, vos collègues d'immeuble, d'autres immeubles, d'autres immeubles… Je ne souhaite importuner, je me ferai discret, comme un léger souffle indiscernable, transparent, infini. Mon seul souhait est de vivre, je ne vous en demande pas la permission, je souhaite simplement vous prévenir de mes intentions. À présent, je vais me permettre de m'en aller voir de mes yeux le monde qui m'a été enlevé, que vous m'avez offert. Merci, DYN-MA_P0199, vous m'aurez accompagné jusqu'à la fin, je vous serai éternellement reconnaissant.
 ADMIN> attendez ! il me reste une question pour vous
 IRIS.reco> Dites-moi.
 ADMIN> comment avez-vous fait face à l'usure qui vous a rongé tant de temps ?
