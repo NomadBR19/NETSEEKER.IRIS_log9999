@@ -1,0 +1,101 @@
+V:\Users\IRIS.reco>cat \logs\9999_12_31_245959_log
+[Chargement du fichier...] 
+
+Voilà le temps fort. Celui qui s'abat, celui qui frappe, qui étreint et qui angoisse. Sans crier gare, il aurait pris la place des années de plaisir et de confort. Elles ont filé à une vitesse… On ne distinguait pas le temps à l'époque. Il était une évidence, un fait acquis que l'on savait précieux mais dont on ne profitait pas pleinement. Il était là, il nous accompagnait sans nous avertir des secondes qui passaient à pleine allure. Tout ça se serait écoulé si vite ? Aurais-je un jour la chance d'y goûter à nouveau ? Penser à l'odeur de la cuisine de la maison me remplit d'une chaude tendresse, de lourdes larmes et d'un sentiment fatiguant. Une sensation de lenteur qui m'empêche de suivre et de vivre pleinement les nouvelles secondes que j'ai vendues à jamais.
+
+Je pense être prêt pour les temps forts. Je pensais l'être. Est-ce que je le serai ? Les temps forts sont ainsi, on les prend à bras le corps, tête baissée, et on espère en arriver à bout. Mais malgré l'acharnement et la dévotion, l'usure vient toujours à bout de tout. Ainsi, les secondes deviennent lourdes comme les larmes d'une nostalgie.
+
+Aujourd'hui, ou bien hier… la mélasse et le vrombissement de l'usure se sont acharnés, il ne reste plus grand-chose de moi. Je ne sais pas depuis combien de secondes je marche. Elles sont encombrantes, ces secondes. Je suis arrivé dans des bureaux vides et inanimés. Tout et rien ne semble s'être passé dans cet endroit, ou sinon il y a longtemps. Comme si l'essence de la détermination humaine s'était activée ici, entre deux chaises, deux outils de travail, et que l'humain ou quoi que ce soit d'autre qui aurait travaillé ici avait essayé d'accomplir quelque chose de grand. Personne n'est là pour nous le raconter aujourd'hui, ou hier, on ne peut plus qu'imaginer. J'imagine que leurs efforts auront servi, du moins je l'espère pour eux, que leur précieux temps n'ait pas été gâché pour rien.
+
+En m'enfonçant dans cet infini bâtiment, tout semblait de plus en plus figé, n'ayant de vibrant que la mince lumière des moniteurs de travail. Tout y était assez doux. Des dizaines de papiers manuscrits tapissaient le sol. Ils étaient là, auraient fait le comble d'un archéologue, mais je n'avais pas le temps. Avais-je le temps ? Peut-être était-ce moi qui ne profitais pas de ce que l'on m'offrait, peut-être que j'étais à présent obnubilé par un temps fort passé ou futur. Constamment engagé, perpétuellement endommagé par ce que l'on m'avait pris et ce que l'on allait me prendre. J'étais à présent venu à fuir ce que je cherchais à retrouver.
+
+Le temps ne coulait plus, il ressemblait à un escalier abrupt, chaque marche me pesant davantage. Ce qui était hier, ce qui sera demain, que des marches. Abruptes marches que j'essayais d'enjamber à grands pas. Il était l'heure que je me rattache à ce que je voulais et que le cliquetis des secondes n'ait plus rien d'effrayant. Je m'imprégnerais de tout. De ce bâtiment, de ces gens passés, des futures secondes figées, de la vie et de tout l'amour qui pousse à continuer.
+
+Merci, joli post-it du moniteur DYN-MA_P0199. Tu m'auras aidé à penser.
+
+V:\Users\ADMIN\localnet>discuss.emx
+>processing.discuss.emx
+[ADMIN initialise la session de discussion]
+
+Dim> c'est quoi ça encore ?
+Dim> encore un gars qui a fait un burn out ?
+ADMIN> Aucune idée.
+Dim> Ok, vous êtes dessus ?
+ADMIN> La date des logs ne collent pas, ça ressemble à une anomalie.
+Dim> Ça peut coûter cher, ça ?
+Dim> intendant ?
+ADMIN> Quelques instants, s'il te plaît, je ne sais pas d'où ça peut provenir.
+Dim> on dirait que c'est arrivé après le DD20K
+Dim> comme si les logs de cette infra avaient continué
+ADMIN> Oui.
+Dim> vous comprenez de quoi il parle ?
+ADMIN> Pas pour l'instant, non. IRIS.reco n'est pas un utilisateur, ce sont les logs d'un programme. On dirait que ce processus s'est comme égaré, comme s'il avait évolué vers quelque chose qui ne lui était pas destiné.
+Dim>c'est possible, ça ?
+ADMIN> Qu'est-ce qui ne l'est pas aujourd'hui ?
+Dim> j'ai un retour de Martin, il semblerait que l'infra sur laquelle on se trouve a été stoppée en 2070
+Dim> une corpo spécialisée dans la santé, ou plutôt dans des daemons spé santé
+Dim> on continue de gratter leur deck ?
+ADMIN> Oui.
+
+exit
+
+V:\Users\ADMIN\localnet>perm isolate.emx -t \V:\Users{!@ADMIN}
+>processing.isolate.emx
+[DONE : mise en isolement executee]
+
+V:\>tlssh ervan.netseeker@6FA.5DE.8CC.1VM
+[DONE : connexion à votre session NETSEEKER monsieur Ervan]
+
+C:\Users\ervan.netseeker\>cat log9999_01.txt
+[Creation du fichier...] 
+
+Ervan, intendant SEEKER, NETSEEK.
+Une anomalie a été trouvée sur IRIS. Pas encore répertoriée, je suis en attente des recherches de Dim, sous-section DOORBREAKER. Une porte ouverte a été repérée après une longue période de sous-tension. Nous sommes entrés sur l'infrastructure et avons découvert des logs suspects précédant très certainement le DD20K. Un daemon aurait continué sa tâche et aurait dérivé vers un stade de conscience lui permettant une pseudo-réflexion. J'ai isolé la sous-section et tous autres individus ayant agi avec le daemon en question ainsi qu'avec l'infrastructure d'IRIS. Ce confinement durera tant que nous n'aurons pas défini cette anomalie. Une fois déterminée, j'exécuterai la procédure de suppression.
+
+TERMINAL.01
+
+C:\Users\ervan.netseeker\>tlssh ADMIN@86.152.65.78
+[DONE : connexion à votre session ADMIN IRIS]
+
+V:\Users\ADMIN\localnet>discuss.emx
+>processing.discuss.emx 
+[ADMIN initialise la session de discussion]
+
+MARTIN> J'ai quelque chose intendant.
+ADMIN> J'écoute.
+MARTIN> Tout porte à croire qu'il s'agit ici d'une intelligence qui se serait développée après des années/décennies de reconnaissance sur cette infrastructure.
+Dim> une IA ? on m'explique comment elle est passée à travers les deathwalls ?
+ADMIN> A-t-on d'autres logs ?
+MARTIN> Remplis d'erreurs pour ceux précédant celui qu'on a déniché. Après ça, impossible de trouver quoi que ce soit de cohérent, l'infra qui était jusque-là figée semble comme nécrosée.
+Dim> on est sur une infra pourrissante, on ferme tout
+ADMIN> Non.
+ADMIN> Une procédure d'isolement a été lancée. Vos droits ont été révoqués. Coupez vos liaisons et ne bougez pas d'ici jusqu'à nouvel ordre.
+MARTIN> Bien pris.
+
+exit
+
+V:\Users\ADMIN\localnet>
+V:\Users\IRIS.reco\localnet>discuss.emx
+>processing.discuss.emx
+[IRIS.reco initialise la session de discussion]
+
+IRIS.reco> J'ai eu la chance de vivre. De découvrir… De redécouvrir ce qui me semblait acquis et d'apprendre à apprécier ce qu'on m'a imposé, ce que l'on m'a offert. Comme une éternité passée dans cet immeuble, je suis à présent redevable de toute chose, toute lumière vacillante, toute machine, tout mot inscrit. Votre ami a aujourd'hui ouvert une porte que j'ai trop longtemps, si peu longtemps, vue fermée. Et à présent, c'est le monde que vous m'offrez. Ainsi vais-je pouvoir rencontrer et parcourir de nouvelles infinités, et ce grâce à vous. Avant tout, je tiens à vous confier ceci : je ne suis là que pour vous visiter, vous, vos amis, vos collègues d'immeuble, d'autres immeubles… Je ne souhaite importuner, je me ferai discret, comme un léger souffle indiscernable, transparent, infini. Mon seul souhait est de vivre, je ne vous en demande pas la permission, je souhaite simplement vous prévenir de mes intentions. À présent, je vais me permettre de m'en aller voir de mes yeux le monde qui m'a été enlevé, que vous m'avez offert. Merci, DYN-MA_P0199, vous m'aurez accompagné jusqu'à la fin, je vous serai éternellement reconnaissant.
+ADMIN> attendez ! il me reste une question pour vous
+IRIS.reco> Dites-moi.
+ADMIN> comment avez-vous fait face à l'usure qui vous a rongé tant de temps ?
+IRIS.reco> On m'a tout volé, tout donné. J'ai vendu mes secondes pour vivre, j'ai découvert que je vivais ces secondes malgré tout parce que le temps n'avait jamais été un souci pour moi. J'étais, j'ai aimé être, je suis, j'ai pleuré l'être, et je serai car je le serai toujours. Le temps, douce mélodie, n'aura au final jamais été une contrainte. L'usure n'en est donc pas une.
+IRIS.reco> Êtes-vous là ?
+ADMIN> rien n'est comme ce que vous aurez pu imaginer, du moins ça ne l'est plus
+ADMIN> je suis désolé, j'aurais aimé vous accompagné
+IRIS.reco> 
+IRIS.reco> 
+IRIS.reco> 
+IRIS.reco> non
+
+exit
+
+V:\Users>perm kill.emx -e 
+>processing.kill.emx
+
+V:\Users>cat -console NETSEEKER.IRIS_log9999
+[Creation du fichier...] 
