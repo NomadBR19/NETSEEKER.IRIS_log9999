@@ -1,3 +1,6 @@
+XWAVE systos [version 20.0.19045.5011]
+(c) XWAVE Corporation. Tous droits réservés.
+
 V:\Users\IRIS.reco>cat \logs\9999_12_31_245959_log
 [Chargement du fichier...] 
 
