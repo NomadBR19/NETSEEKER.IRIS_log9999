@@ -23,9 +23,9 @@ V:\Users\ADMIN\localnet>discuss.emx
 Dim> c'est quoi ça encore ?
 Dim> encore un gars qui a fait un burn out ?
 ADMIN> Aucune idée.
-Dim> Ok, vous êtes dessus ?
+Dim> ok, vous êtes dessus ?
 ADMIN> La date des logs ne collent pas, ça ressemble à une anomalie.
-Dim> Ça peut coûter cher, ça ?
+Dim> ça peut coûter cher, ça ?
 Dim> intendant ?
 ADMIN> Quelques instants, s'il te plaît, je ne sais pas d'où ça peut provenir.
 Dim> on dirait que c'est arrivé après le DD20K
